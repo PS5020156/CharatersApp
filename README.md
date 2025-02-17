@@ -1,1 +1,1 @@
-# CharatersApp
+# CharactersApp
